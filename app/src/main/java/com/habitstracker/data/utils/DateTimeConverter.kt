@@ -1,4 +1,4 @@
-package com.habitstracker.data
+package com.habitstracker.data.utils
 
 import androidx.room.TypeConverter
 import java.time.LocalDate
